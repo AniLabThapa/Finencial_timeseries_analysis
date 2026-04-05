@@ -1,2 +1,67 @@
 Descriptive statistics provide a summary of a dataset, offering a snapshot of its central tendency, dispersion, and shape. 
 Key measures include the mean (average), variance (spread), skewness (symmetry), and kurtosis (tailedness). 
+The mean, variance, skewness, and kurtosis are each fundamental pillars of descriptive statistics. 
+We frequently use them to summarise data, identify trends, and compare distributions.
+
+   " It helps in describing the main features of a dataset "
+
+This topic is more theoretical, but it provides valuable insights into statistical measurement.
+
+Descriptive statistics is divided into the following categories:
+
+Measures of Central Tendency (such as mean, median, mode)
+Measures of Dispersion (such as range, variance, standard deviation)
+Distribution shape (including skewness and kurtosis)
+
+
+
+Measures of Central Tendency
+👉 Measures of Central Tendency are values that represent the center or typical value of a dataset.
+
+👉 They tell you:
+
+“What is the average or most common value in the data?”
+
+🔹 📌 Main Types
+Mean (Average)
+→ Sum of all values ÷ number of values
+Median
+→ Middle value when data is sorted
+Mode
+→ Most frequent value
+
+Mean
+The mean is the sum of all the components in a group or collection divided by the number of items in that group or collection. 
+The mean of a data collection is typically represented as x̄ (pronounced "x bar").
+The formula for calculating the mean for ungrouped data to express it as a measure is given as follows:
+For a series of observations:
+
+x̄ = Σx / n
+
+where,
+
+x̄ = Mean Value of Provided Dataset
+Σx = Sum of All Terms
+n = Number of Terms
+
+Median
+Median of a data set is the value of the middle-most observation obtained after organizing the data in ascending order, which is one of the measures of central tendency. 
+The median formula may be used to compute the median for many types of data, such as grouped and ungrouped data
+
+Mode
+Mode is one of the measures of central tendency, defined as the value that appears the most frequently in the provided data, i.e., the observation with the highest frequency is known as the mode of the data.
+The mode formulae provided below can be used to compute the mode for ungrouped data.
+
+🔹 🧠 Example
+
+Data: 2, 4, 4, 6, 8
+
+Mean = 4.8
+Median = 4
+Mode = 4
+
+
+
+
+
+
